@@ -1,0 +1,1 @@
+1,admin,2023-01-01,Administrateur,ADMIN001,2000-01-01,30,Banque Centrale,0000000000,N/A,0,1000000.00,0,1
